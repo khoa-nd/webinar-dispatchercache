@@ -1,0 +1,3 @@
+1. checkout project at WCM IO training-caconfig-exercise-aem
+2. Remember to change OSGi config about level of root level for detection
+3. Change allowPath of template to allow ANA path
